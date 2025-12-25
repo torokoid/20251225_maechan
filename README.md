@@ -170,6 +170,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">24,Dec,2025 庭のお花たちは今日も満開</span></h2>
 <a href="20251225_001.JPG" target="_blank"><img src="20251225_001.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">次の蕾たちも準備中</span></h2>
 <a href="20251225_002.JPG" target="_blank"><img src="20251225_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">お昼のデザートはスイカ</span></h2>
